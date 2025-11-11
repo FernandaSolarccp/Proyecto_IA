@@ -13,3 +13,25 @@ Este proyecto fue desarrollado como parte del curso de Tendencias en Inteligenci
 
 ## Capturas
 *Aquí agregué capturas del proceso realizado.*
+
+## Capturas
+
+1. **Repositorio creado en GitHub**
+   
+   ![Repo](capturas/img/1.png)
+
+2. **Repo clonado en VS Code**
+   
+   ![Clonado](capturas/img/2.png)
+
+3. **Copilot activo (versión gratuita)**
+   
+   ![Copilot](capturas/img/3.png)
+
+4. **Archivo `recommendation_system.py` generado con sugerencias de Copilot**
+   
+   ![Código](capturas/img/4.png)
+
+5. **Commit y push desde VS Code / Terminal**
+   
+   ![Push](capturas/img/5.png)
