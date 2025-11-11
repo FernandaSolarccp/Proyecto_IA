@@ -35,3 +35,9 @@ Este proyecto fue desarrollado como parte del curso de Tendencias en Inteligenci
 5. **Commit y push desde VS Code / Terminal**
    
    ![Push](capturas/img/5.png)
+
+6. **Coódigo ejecutado**
+
+![Ejecución del programa](capturas/img/códigoCorriendo.png)
+
+
